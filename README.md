@@ -1,4 +1,4 @@
-# 📰 BBC News Classification – Multi-Class Text Classification
+# 📰 BBC News Classification –    Multi-Class Text Classification
 
 ## 📌 Project Overview
 This project focuses on building a machine learning model to automatically classify BBC news articles into predefined categories such as business, sports, politics, technology, and entertainment.
